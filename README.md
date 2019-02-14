@@ -10,3 +10,6 @@ Permits are categorized into building permits, electrical permits, and mechanica
 Depending on the complexity of a project, a permit may be issued the same day with Express Permit 
 or e-Permit ("No Plan Check" category), or a permit may require that the plans be reviewed ("Plan Check" category)
 by a Building and Safety Plan Check personnel.
+
+LA rent index data from Zillow
+https://www.zillow.com/los-angeles-ca/home-values/
